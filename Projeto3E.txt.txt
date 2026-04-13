@@ -4,3 +4,6 @@ Aprendemos como criar conta, pasta "VERS3E" e configurar o github
 Instalando o git for windows
 E visualizando o open git bash here
 
+13/04
+
+Hoje iremos atualizar o arquivo.
